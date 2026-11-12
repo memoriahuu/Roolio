@@ -54,3 +54,12 @@ Players manage the physical board and manually end their turns. The first versio
 - **Backend:** room membership, host permissions, and turn synchronization
 - **Assistant:** backend AI integration grounded in curated game rules
 - **Content:** structured tutorials that can expand to additional board games
+
+
+## Run the iPhone prototype
+
+Open `Roolio.xcodeproj` in Xcode, choose the **Roolio** scheme and an iPhone simulator running iOS 17 or later, then press **Run**. The host and results layouts adapt when you rotate the simulator to landscape.
+
+Start a game, complete or skip setup, roll for first turn, advance turns, then enter final scores to reveal the winner. Use **Ask Roolibo → Simulate tap** to preview the assistant.
+
+**Demo scope:** This build runs locally on one device. Invites, other players’ actions, NFC, and the assistant response are simulated. Voice and photo controls are placeholders. Dice, the countdown, turn progression, and score ranking run locally.

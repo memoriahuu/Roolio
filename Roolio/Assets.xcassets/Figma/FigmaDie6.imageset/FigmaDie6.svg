@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Die / 6">
+<rect x="0.5" y="0.5" width="39" height="39" rx="8.3" fill="#214E46"/>
+<rect x="0.5" y="0.5" width="39" height="39" rx="8.3" stroke="#214E46"/>
+<circle id="Pip" cx="9.6" cy="9.6" r="2.3" fill="#FFFEFB"/>
+<circle id="Pip_2" cx="9.6" cy="20" r="2.3" fill="#FFFEFB"/>
+<circle id="Pip_3" cx="9.6" cy="30.4" r="2.3" fill="#FFFEFB"/>
+<circle id="Pip_4" cx="30.4" cy="9.6" r="2.3" fill="#FFFEFB"/>
+<circle id="Pip_5" cx="30.4" cy="20" r="2.3" fill="#FFFEFB"/>
+<circle id="Pip_6" cx="30.4" cy="30.4" r="2.3" fill="#FFFEFB"/>
+</g>
+</svg>

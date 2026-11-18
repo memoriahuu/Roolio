@@ -1,0 +1,98 @@
+{
+  "shelf": {
+    "figma_node_visible_size": [
+      402,
+      874
+    ],
+    "mean_absolute_error_0_255": 39.658,
+    "rmse_0_255": 58.969,
+    "pixels_over_16_percent": 67.371,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/shelf-overlay.png",
+    "diff": "Diff/shelf-diff.png"
+  },
+  "home": {
+    "figma_node_visible_size": [
+      402,
+      874
+    ],
+    "mean_absolute_error_0_255": 22.179,
+    "rmse_0_255": 45.975,
+    "pixels_over_16_percent": 47.588,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/home-overlay.png",
+    "diff": "Diff/home-diff.png"
+  },
+  "detail": {
+    "figma_node_visible_size": [
+      402,
+      874
+    ],
+    "mean_absolute_error_0_255": 18.054,
+    "rmse_0_255": 43.311,
+    "pixels_over_16_percent": 27.114,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/detail-overlay.png",
+    "diff": "Diff/detail-diff.png"
+  },
+  "setup": {
+    "figma_node_visible_size": [
+      402,
+      874
+    ],
+    "mean_absolute_error_0_255": 1.935,
+    "rmse_0_255": 12.212,
+    "pixels_over_16_percent": 1.607,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/setup-overlay.png",
+    "diff": "Diff/setup-diff.png"
+  },
+  "invite": {
+    "figma_node_visible_size": [
+      392,
+      874
+    ],
+    "mean_absolute_error_0_255": 26.915,
+    "rmse_0_255": 64.174,
+    "pixels_over_16_percent": 25.661,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/invite-overlay.png",
+    "diff": "Diff/invite-diff.png"
+  },
+  "first": {
+    "figma_node_visible_size": [
+      402,
+      874
+    ],
+    "mean_absolute_error_0_255": 5.491,
+    "rmse_0_255": 26.698,
+    "pixels_over_16_percent": 6.722,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/first-overlay.png",
+    "diff": "Diff/first-diff.png"
+  },
+  "ready": {
+    "figma_node_visible_size": [
+      402,
+      874
+    ],
+    "mean_absolute_error_0_255": 6.28,
+    "rmse_0_255": 27.332,
+    "pixels_over_16_percent": 9.019,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/ready-overlay.png",
+    "diff": "Diff/ready-diff.png"
+  },
+  "horizontal": {
+    "figma_node_visible_size": [
+      392,
+      874
+    ],
+    "mean_absolute_error_0_255": 3.882,
+    "rmse_0_255": 26.78,
+    "pixels_over_16_percent": 2.626,
+    "masked_hardware_rows": "0-58 and 860-873",
+    "overlay": "Diff/horizontal-overlay.png",
+    "diff": "Diff/horizontal-diff.png"
+  }
+}
